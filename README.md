@@ -29,6 +29,10 @@
 
 ---
 
+<div align="center">
+  <img src="videoframe_3970.png" alt="Banner" width="100%" />
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center" dir="auto">
