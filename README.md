@@ -30,7 +30,7 @@
 ---
 
 <div align="center">
-  <img src="banner.gif" alt="Banner" width="100%" />
+  <img src="bannerr.gif" alt="Banner" width="520" />
   <br/>
   <a href="banner.mp4">Download MP4</a>
 </div>
