@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Rayen Hizaoui
+# Hi, I'm Rayen Hizaoui 👋
 
 **Data Science & AI Engineering Student @ ESPRIT**
 
@@ -11,6 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayen-hizaoui-9741172b5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rayen.hizaoui@esprit.tn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/rayenhizaoui)
 
 
 </div>
@@ -33,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React">
   </a>
   <a href="https://angular.io/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="40" height="40" alt="Angular">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="40" height="40" alt="Angular">
   </a>
   <a href="https://nextjs.org/docs" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJs">
@@ -68,9 +69,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayenhizaoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayenhizaoui&theme=tokyonight" alt="Profile Details" width="100%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenhizaoui&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayenhizaoui&theme=tokyonight" alt="Stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayenhizaoui&theme=tokyonight" alt="Top Languages" height="170" />
 
 </div>
 
