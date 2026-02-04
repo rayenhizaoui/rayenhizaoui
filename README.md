@@ -30,9 +30,9 @@
 ---
 
 <div align="center">
-  <video src="banner.mp4" width="100%" controls muted loop playsinline></video>
+  <img src="banner.gif" alt="Banner" width="100%" />
   <br/>
-  <a href="banner.mp4">Open video</a>
+  <a href="banner.mp4">Download MP4</a>
 </div>
 
 ## 🛠️ Tech Stack
