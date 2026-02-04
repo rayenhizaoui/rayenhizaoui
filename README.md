@@ -30,7 +30,9 @@
 ---
 
 <div align="center">
-  <img src="videoframe_3970.png" alt="Banner" width="100%" />
+  <video src="banner.mp4" width="100%" controls muted loop playsinline></video>
+  <br/>
+  <a href="banner.mp4">Open video</a>
 </div>
 
 ## 🛠️ Tech Stack
