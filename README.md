@@ -6,7 +6,7 @@
 
 <div align="center" dir="auto">
   <a href="https://readme-typing-svg.herokuapp.com" rel="nofollow">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=700&lines=Data+Science+Student+%40+ESPRIT;AI+%26+Machine+Learning+Enthusiast;Turning+Data+into+Insights;Building+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=720&lines=Data+Science+%26+AI+Student+%40+ESPRIT;Machine+Learning+%7C+Computer+Vision+%7C+NLP;LLMs+%26+RAG+%7C+Agentic+AI+Systems;Building+Production-Ready+AI+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center" dir="auto">
 
-### 🤖 Machine Learning & AI
+### 🤖 AI & Machine Learning
 
 <p dir="auto">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/MLflow-1E9CFB?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
 
-### 📊 Data Analysis & Visualization
+### 📊 Analytics & Visualization
 
 <p dir="auto">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-### 💾 Databases & Query
+### 💾 Databases & BI (SQL/DAX)
 
 <p dir="auto">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
