@@ -32,7 +32,7 @@
 <div align="center">
   <img src="bannerr.gif" alt="Banner" width="520" />
   <br/>
-  <a href="banner.mp4">Download MP4</a>
+  ##<a href="banner.mp4">Download MP4</a>
 </div>
 
 ## 🛠️ Tech Stack
