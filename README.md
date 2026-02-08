@@ -23,7 +23,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/rayenhizaoui)
 
 
-delete
 
 </div>
 
